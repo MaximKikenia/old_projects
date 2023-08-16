@@ -1,0 +1,47 @@
+h3, h4, div, p, ul {
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper {
+    border: solid lightgrey 1px;
+    width: 80%;
+    margin: 0 auto;
+    border-radius: 5px;
+    border-box: content-box;
+    padding: 10px;
+}
+
+details {
+    margin: 10px auto;
+    text-align: center;
+}
+
+
+
+details ul, li {
+    margin: 5px;
+}
+
+.instruction {
+    border: solid transparent 1px;
+    margin: 0 auto;
+    width: 100%;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.instruction ul {
+    margin-top: 10px;
+}
+
+.instruction h3, li, h4 {
+    text-align: center;
+    list-style-type: none;
+}
+
+
+.titleArea {
+    text-align: center;
+    margin-bottom: 10px;
+}
